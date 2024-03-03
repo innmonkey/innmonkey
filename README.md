@@ -43,8 +43,8 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-<!-- [![innmonkey's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=innmonkey&theme=github-compact)](https://github.com/innmonkey/github-readme-activity-graph) -->
-![innmonkey's github activity graph](https://activity-graph.herokuapp.com/graph?username=innmonkey&theme=dracula)
+<!-- [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph) -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![innmonkey's github stats](https://github-readme-stats.vercel.app/api?username=innmonkey&show_icons=true&theme=radical&include_all_commits=true) | ![innmonkey's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=innmonkey&theme=radical&layout=compact) |
