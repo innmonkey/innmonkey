@@ -51,20 +51,8 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=innmonkey"></img>
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--   grid-snake -->
-![](https://github.com/innmonkey/innmonkey/blob/output/github-contribution-grid-snake.svg)
-
-<!--   skyline 
-<a href="https://skyline.github.com/innmonkey/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=innmonkey" width="auto"></img>
-
-#### Thanks for visiting :heart:
+### Thanks for visiting :heart:
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/innmonkey/count.svg">  
