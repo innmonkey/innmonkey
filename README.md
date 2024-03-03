@@ -44,10 +44,10 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 <!-- [![innmonkey's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=innmonkey&theme=github-compact)](https://github.com/innmonkey/github-readme-activity-graph) -->
-![innmonkey's github activity graph](https://raw.githubusercontent.com/innmonkey/innmonkey/output/github-contribution-grid-snake.svg)
+![innmonkey's github activity graph](https://activity-graph.herokuapp.com/graph?username=innmonkey&theme=dracula)
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![innmonkey's github stats](https://github-readme-stats.vercel.app/api?username=innmonkey&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=innmonkey&theme=radical&layout=compact) |
+| ![innmonkey's github stats](https://github-readme-stats.vercel.app/api?username=innmonkey&show_icons=true&theme=radical&include_all_commits=true) | ![innmonkey's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=innmonkey&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=innmonkey"></img>
 
