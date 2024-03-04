@@ -45,7 +45,6 @@
 ### 📈 GitHub Activity Graph:
 <!-- [![innmonkey's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=innmonkey&theme=github-compact)](https://github.com/innmonkey/github-readme-activity-graph) -->
 ![innmonkey's github activity graph](https://raw.githubusercontent.com/innmonkey/innmonkey/output/github-contribution-grid-snake.svg)
-| .                                                                                                                                       | .                                                                                                                         |
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=innmonkey"></img>
 
 
