@@ -10,13 +10,19 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=innmonkey.innmonkey" alt="visitors"/>   
 </p>
 
-<!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+<div>
+<a href="https://git.io/typing-svg" style="float: left;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=600&height=100&lines=Hi+there+👋,+I+am+Chris;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things" alt="Typing SVG" width="63.5%" /></a>
+
+<img src="https://count.getloli.com/get/@dracon-china.github.readme" style="float: right; margin-bottom: 1%" width="35%">
+</div>
+
+#<!--   my-header-img -->
+#![](./src/header_.png)
+#<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Chris;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
+#<!--   my-ticker -->    
+#[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width="100%"&lines=Hi+there+👋,+I+am+Chris;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
 
 <!--   my-kaggle     
@@ -45,7 +51,7 @@
 ### 📈 GitHub Activity Graph:
 <!-- [![innmonkey's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=innmonkey&theme=github-compact)](https://github.com/innmonkey/github-readme-activity-graph) -->
 ![innmonkey's github activity graph](https://raw.githubusercontent.com/innmonkey/innmonkey/output/github-contribution-grid-snake.svg)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=innmonkey&width="100%"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=innmonkey&theme=light&hide_border=true&date_format=%5BY.%5Dn.j" width="100%"></img>
 #<img src="https://github-readme-streak-stats.herokuapp.com?user=dracon-china&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j" width="100%"></img>
 
 ## Star History
