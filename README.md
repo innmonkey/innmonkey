@@ -10,12 +10,6 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=innmonkey.innmonkey" alt="visitors"/>   
 </p>
 
-<div>
-<a href="https://git.io/typing-svg" style="float: left;"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=600&height=100&lines=Hi+there+👋,+I+am+Chris;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things" alt="Typing SVG" width="63.5%" /></a>
-
-<img src="https://count.getloli.com/get/@dracon-china.github.readme" style="float: right; margin-bottom: 1%" width="35%">
-</div>
-
 <!--   my-header-img -->
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
